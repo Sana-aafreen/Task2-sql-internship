@@ -1,4 +1,4 @@
-📊** Company Database – Key Steps**
+**📊Company Database – Key Steps**
 
 _Create Database
 _
@@ -27,5 +27,8 @@ List employees with department
 Employees with progress > 80%
 
 Department-wise average progress
+
+<img width="441" height="372" alt="image" src="https://github.com/user-attachments/assets/fe4bc00f-c4d5-44b8-9b67-ddcaa19b0662" />
+
 
 Top 3 departments by average progress
